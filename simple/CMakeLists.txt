@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0)
-project(hello-1)
+project(cc-tests-simple)
 
-add_executable(hello main.cpp helper.cpp)
+add_executable(cc-tests-simple main.cpp helper.cpp)
 
