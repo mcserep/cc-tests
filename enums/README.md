@@ -1,4 +1,4 @@
-# Simple
+# Enums
 An enum and enum class test project for CodeCompass
 
 ## Compilation
