@@ -4,3 +4,4 @@
  * **enums**: enum and enum class test project
  * **cyclic**: cyclic inclusion test project
  * **funcptr**: function pointer test project
+ * **namespaces**: namespace test project

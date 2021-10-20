@@ -1,5 +1,5 @@
-# FuncPtr
-A function pointer test project for CodeCompass
+# Namespaces
+A namespace test project for CodeCompass
 
 ## Compilation
 ```bash
