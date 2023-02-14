@@ -5,3 +5,4 @@
  * **cyclic**: cyclic inclusion test project
  * **funcptr**: function pointer test project
  * **namespaces**: namespace test project
+ * **foreach**: range-based for loop test project
