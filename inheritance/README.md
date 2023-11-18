@@ -1,5 +1,5 @@
-# Inheritence
-Inheritence and type hierarchy test project for CodeCompass
+# Inheritance
+Inheritance and type hierarchy test project for CodeCompass
 
 ## Compilation
 ```bash

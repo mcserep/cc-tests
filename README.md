@@ -8,7 +8,7 @@
  * **foreach**: range-based for loop test project
  * **macros**: macro expansion test project
  * **special**: special keywords and metadata test project
- * **inheritence**: inheritence and type hierarchy test project
+ * **inheritance**: inheritance and type hierarchy test project
  * **lifetime**: variable lifetime test project
  * **lambda**: lambda expression parsing test project
 
