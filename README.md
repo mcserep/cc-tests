@@ -11,4 +11,5 @@
  * **inheritance**: inheritance and type hierarchy test project
  * **lifetime**: variable lifetime test project
  * **lambda**: lambda expression parsing test project
-
+ * **cohesion**: lack of cohesion metrics test project
+ * **decl_def**: entity declaration and definition test project
